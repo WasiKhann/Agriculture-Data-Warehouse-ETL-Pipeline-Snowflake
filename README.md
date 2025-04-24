@@ -1,6 +1,6 @@
 # Snowflake Project
 
-This project showcases visuals related to Snowflake architecture and dashboarding.
+This project showcases a simple ETL pipeline, warehousing using and dashboarding - all using Snowflake.
 
 ## 📁 Snowflake Directory
 
