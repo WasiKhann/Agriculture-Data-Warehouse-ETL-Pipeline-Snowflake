@@ -72,10 +72,5 @@ To review this project:
 
 ---
 
-## Connect with Me
-
-Feel free to connect or reach out with any questions!
-
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **GitHub:** [Link to your GitHub profile/other relevant repos]
-* **Email:** [Your Email Address]
+## 📁 More Projects  
+👉 [Explore my full Data Analytics Portfolio on GitHub](https://github.com/WasiKhann/Data-Analytics-Portfolio)
